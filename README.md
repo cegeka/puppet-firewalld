@@ -246,3 +246,4 @@ _Example_:
 
 * Written and maintained by Craig Dunn <craig@craigdunn.org> @crayfisx
 * Sponsered by Baloise Group [http://baloise.github.io](http://baloise.github.io)
+
